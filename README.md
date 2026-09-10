@@ -2,7 +2,7 @@
 
 One mobile photo of my desk corner, turned into a measured 3D scene: table, drawer unit, walls, floor and 13 objects with their positions and sizes.
 
-**Live 3D viewer:** https://USERNAME.github.io/REPO-NAME/
+**Live 3D viewer:** https://raviranjanbhardwaj.github.io/3d-scene-reconstruction-mapping/
 
 ![Model drawn back onto the photo](results/overlay_check.png)
 
@@ -24,14 +24,6 @@ One mobile photo of my desk corner, turned into a measured 3D scene: table, draw
 | Plastic bottle (lying) | visible length 14, dia 8 | ±20% | rest hidden behind cloth |
 | Snack packet | height 19 | ±20% | standing at back wall, base hidden |
 | Wall socket | 13 x 11 | ±8% | centre 55 cm above floor |
-
-### Checked with a tape measure
-
-| | From photo | Tape | Difference |
-|---|---|---|---|
-| Table length | 113.6 cm | ___ cm | ___ % |
-| Table width | 73.1 cm | ___ cm | ___ % |
-| Table height | 75.7 cm | ___ cm | ___ % |
 
 ## How it works
 
